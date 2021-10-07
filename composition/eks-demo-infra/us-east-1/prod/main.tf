@@ -48,8 +48,8 @@ module "eks" {
   create_eks      = var.create_eks
   cluster_version = var.cluster_version
   cluster_name    = local.cluster_name
-  vpc_id          = "vpc-09f1692e70face807" #module.vpc.vpc_id
-  subnets         = ["subnet-049fe798afcdebdd2","subnet-03ea4fba492b5d82e","subnet-02ca3a1299db85e6d","subnet-04fa7a99573d5c2aa"] #module.vpc.private_subnets
+  vpc_id          = "insert vpc-id" #module.vpc.vpc_id
+  subnets         = ["insert subnet 1","insert subnet 2","insert subnet 3","insert subnet 4"] #module.vpc.private_subnets
 
   # note: either pass worker_groups or node_groups
   # this is for (EKSCTL API) unmanaged node group
