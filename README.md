@@ -14,4 +14,5 @@ Custom changes:
 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LMqIrDmky_20pK6TFJ3%2F-LMsEyvFSkhI7U5bXYr0%2F-LMsFSH4bEnNaV2UP-K6%2FComposition%201.png?alt=media&token=bf8b7677-4ba6-4001-a176-3916587f4250)
+
 Fig: Simple infrastructure composition
