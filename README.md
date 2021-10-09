@@ -1,4 +1,4 @@
-Create an EKS setup using [best practices](https://www.terraform-best-practices.com/key-concepts)
+Create an EKS setup using [Terraform best practices](https://www.terraform-best-practices.com/key-concepts)
 
 Step 1: Replicate Remote TF modules for EKS in local Resource Modules
 https://github.com/terraform-aws-modules/terraform-aws-eks
